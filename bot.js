@@ -6,8 +6,7 @@ console.log("Scrpit By Dream");
 client.on("ready", () => {
 let channel =     client.channels.get("534484425300508696")
 setInterval(function() {
-channel.send(`hell gays hello mazen ana esmy mazen ayman mohamed elsayed mazen 
-hello brgsd bye-bye`);
+channel.send(`hell gays hello mazen ana esmy mazen ayman mohamed elsayed mazen lkflskdhfdsjlfkjdslkhfulshfkjhsdfiuhseufyhshfi esfhsdofyhshfosdhyfhsoiuyhfhuyfrh usidyhf shse uieshfiushd fsuifhsdf hsdvbsfh shfsdhf bsdfhsiyfsdhfghbhsf se resuhfsudhfyuieshfsduhfesyfherytyorduoydryoit euryhfewohfulhywiurfhduhughdeulhreugruhgrlg novryo owerneoriutnleo8erieowurjdhfguiyhrguiheruty8er eruterhtuierhtiueryte eorutyertuoteorterotey erntertherrthjrtaheroe e threthertearutu eerterutoreautuaoeut oeeroueoautoerutghoer ha er er er iu erterhte e teeort erht eru erhterhtu er eru ther terother hterhy ertyer tertryt eooaoyaeyoae oeayrteyrterytuear fdsfsfsdl;gfkljgltosjtuiorugjfdierohgoiuehgjkhoehoghf yheotgjerklhtyelrhtuyoehrytouie heruithrehtjerhtuoie herhtuerhtouerh uerhthret herthehrt uheruthreihtrheioaathealhlrhea ehteroah teorhtheuothoeh`);
 }, 30)
 })
 
